@@ -1,2 +1,2 @@
-# patikabaslangicfrontedwebdevelopment
-patika.dev Başlangıç Seviye Frontend Web Development Patikası
+patika.dev html eğitiminde verilen ödevleri yüklediğim repository.
+eğitim linki: https://academy.patika.dev/courses/html
